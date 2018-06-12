@@ -1,4 +1,17 @@
 h1 {
     font-family: 'Lobster', cursive;
-    font-size:45px;
+    font-size:80px;
+    background-color:#b07660;
+    text-align:center;
+}
+
+html {
+    background-color:#7f534a;   
+}
+
+p {
+    font-family: 'Oswald', sans-serif;; 
+    background-color:#b07660;
+    font-size:40px;
+
 }
