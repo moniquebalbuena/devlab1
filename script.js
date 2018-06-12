@@ -17,4 +17,8 @@ $("#port").click(function(){
     window.location = portfolio
 });
 
+$("#github").click(function(){
+    window.location = "https://github.com/moniquebalbuena/devlab1";
+});
+
 })
