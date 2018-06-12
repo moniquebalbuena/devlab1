@@ -1,0 +1,56 @@
+.rowfooter{   
+
+    background-color:#7f534a;
+    color:white;
+    font-size:20px;
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+    display:flex;
+    justify-content: center;
+    margin: 5px;
+    padding:10px;
+}
+
+.item {
+    background-color: #b07660;
+    margin:50px;
+    border-radius: 5px;
+    padding:15px;
+    width: 25%;
+    color:#ffffff;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.headshot{
+    width:50%;
+   
+}
+.rowmid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    text-align:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.rowcontact{
+    background-color:#7f534a;
+    color:white;
+    font-size:20px;
+    text-align:center;
+}
+
+.rowaboutme{ 
+    text-align:center;
+    width:100%;
+}
+
+.name {
+    font-family: 'Lobster', cursive;
+}
+
+
+
